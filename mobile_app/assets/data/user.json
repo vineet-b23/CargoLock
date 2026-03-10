@@ -1,0 +1,8 @@
+{
+  "users": [
+    {"username": "admin", "password": "123", "role": 3},
+    {"username": "supplier", "password": "123", "role": 0},
+    {"username": "driver", "password": "123", "role": 1},
+    {"username": "customer", "password": "123", "role": 2}
+  ]
+}
